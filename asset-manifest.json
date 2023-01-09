@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-react-gridstack/static/css/main.f793a208.css",
+    "main.js": "/test-react-gridstack/static/js/main.eb039b4a.js",
+    "index.html": "/test-react-gridstack/index.html",
+    "main.f793a208.css.map": "/test-react-gridstack/static/css/main.f793a208.css.map",
+    "main.eb039b4a.js.map": "/test-react-gridstack/static/js/main.eb039b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f793a208.css",
+    "static/js/main.eb039b4a.js"
+  ]
+}
